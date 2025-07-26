@@ -1,0 +1,16 @@
+pyrogram
+tgcrypto
+ffmpeg-python
+pymediainfo
+aiofiles
+aiogram==3.4
+python-dotenv
+ffmpeg-python
+pymediainfo
+pytz
+requests
+rich
+tqdm
+python-magic
+uvloop
+watchdog
